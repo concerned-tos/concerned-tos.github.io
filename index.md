@@ -1,5 +1,3 @@
-### Welcome to GitHub Pages
-
 # Teen suicide
 
 This website will ist some ways to help your teen deal with their emotions in healthy ways
